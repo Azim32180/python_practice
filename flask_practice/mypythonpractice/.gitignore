@@ -1,0 +1,13 @@
+# Ignore virtual environment folders
+venv/
+.env/
+__pycache__/
+*.pyc
+
+# Ignore environment/config files
+.env
+*.sqlite3
+instance/
+
+# Ignore system files
+.DS_Store
