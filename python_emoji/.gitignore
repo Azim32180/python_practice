@@ -1,0 +1,9 @@
+# Python virtual environment
+testenv/
+
+# Python caches
+__pycache__/
+.ipynb_checkpoints/
+
+# Local env files / secrets
+.env
